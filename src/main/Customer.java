@@ -6,6 +6,7 @@ public class Customer{
     private double timePerItem;
     private double arrivalTime;
     private double shoppingTime;
+    private double checkoutTime;
 
     public Customer(double arrivalTime, int numItems, double timePerItem, int customerNumber){
         this.arrivalTime = arrivalTime;
@@ -13,6 +14,7 @@ public class Customer{
         this.timePerItem = timePerItem;
         this.customerNumber = customerNumber;
         this.shoppingTime = (numItems * timePerItem) + arrivalTime;
+        this.checkoutTime = 0;
     }
 
     public int getNumItems(){
@@ -27,11 +29,19 @@ public class Customer{
         return arrivalTime;
     }
 
-    public double getWaitTime(){
-        return 0;
+    public double getCheckoutTime(){
+        return checkoutTime;
+    }
+
+    public int getCustomerNumber(){
+        return customerNumber;
+    }
+
+    public void setCheckoutTime(double checkoutTime){
+        this.checkoutTime = checkoutTime;
     }
 
     public String toString(){
-        return arrivalTime + " " + numItems + " " + timePerItem;
+        return "numItems";
     }
 }
