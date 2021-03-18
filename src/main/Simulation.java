@@ -33,12 +33,14 @@ public class Simulation {
 
                 if(chooseLane(event.getCustomer(), expressLane, regularLane)){
                     if(expressLane.getCustomers().size() == 1){
-                        System.out.println("Customer only one in express queue");
+                        Event endCheckout = new EndCheckoutEvent(event.getCustomer(), expressLane.getCheckoutTime());
+                        eventQueue.offer(endCheckout);
                     }
                 }
                 else{
                     if(regularLane.getCustomers().size() == 1){
-                        System.out.println("Customer only one in regular queue");
+                        Event endCheckout = new EndCheckoutEvent(event.getCustomer(), regularLane.getCheckoutTime());
+                        eventQueue.offer(endCheckout);
                     }
                 }
                 expressLaneQueue.offer(expressLane);
