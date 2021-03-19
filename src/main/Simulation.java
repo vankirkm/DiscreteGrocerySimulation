@@ -10,8 +10,8 @@ import java.util.PriorityQueue;
 public class Simulation {
 
 
-    private static int numExpressLanes = 6;
-    private static int numRegularLanes = 6;
+    private static int numExpressLanes = 2;
+    private static int numRegularLanes = 10;
     private static PriorityQueue<CheckoutLane> expressLaneQueue = initExpressLanes();
     private static PriorityQueue<CheckoutLane> regularLaneQueue = initRegularLanes();
     private static ArrayList<Customer> customerList = new ArrayList<>();
@@ -20,6 +20,8 @@ public class Simulation {
         String fileName = "arrival medium.txt";
         PriorityQueue<Event> eventQueue = createEventQueue(fileName);
         double simTime = 0;
+        double waitTime = 0;
+        double previousCustCheckoutTime = 0;
 
         while(!eventQueue.isEmpty()){
             Event event = eventQueue.poll();
@@ -40,12 +42,14 @@ public class Simulation {
                     if(expressLane.getCustomers().size() == 1){
                         Event endCheckout = new EndCheckoutEvent(event.getCustomer(), expressLane.getCheckoutTime(), expressLane);
                         eventQueue.offer(endCheckout);
+                        expressLane.getCustomers().peek().setWaitTime(0,0);
                     }
                 }
                 else{
                     if(regularLane.getCustomers().size() == 1){
                         Event endCheckout = new EndCheckoutEvent(event.getCustomer(), regularLane.getCheckoutTime(), regularLane);
                         eventQueue.offer(endCheckout);
+                        regularLane.getCustomers().peek().setWaitTime(0,0);
                     }
                 }
                 expressLaneQueue.offer(expressLane);
@@ -55,12 +59,13 @@ public class Simulation {
             if(event instanceof EndCheckoutEvent){
                 simTime = event.getTime();
                 System.out.println(simTime + " End Checkout: Customer " + event.getCustomer().getCustomerNumber());
-                double previousCustCheckoutTime = event.getLane().getCustomers().poll().getCheckoutTime();
+                previousCustCheckoutTime = event.getLane().getCustomers().poll().getCheckoutTime();
                 if(event.getLane() instanceof ExpressLane){
                     CheckoutLane expressLane = event.getLane();
                     if(expressLane.getCustomers().size() > 0){
                         Event endCheckout = new EndCheckoutEvent(expressLane.getCustomers().peek(), expressLane.getCheckoutTime(), expressLane);
                         eventQueue.offer(endCheckout);
+                        endCheckout.getCustomer().setWaitTime(previousCustCheckoutTime, endCheckout.getCustomer().getCheckoutTime());
                     }
                 }
                 else{
@@ -68,10 +73,16 @@ public class Simulation {
                     if(regularLane.getCustomers().size() > 0){
                         Event endCheckout = new EndCheckoutEvent(regularLane.getCustomers().peek(), regularLane.getCheckoutTime(), regularLane);
                         eventQueue.offer(endCheckout);
+                        endCheckout.getCustomer().setWaitTime(previousCustCheckoutTime, endCheckout.getCustomer().getCheckoutTime());
                     }
                 }
             }
         }
+        for(Customer customer : customerList){
+            waitTime += customer.getWaitTime();
+        }
+        System.out.println("Average wait time: " + waitTime / customerList.size());
+
     }
 
     //Create initial eventQueue of customer arrivals and add customers to customerList

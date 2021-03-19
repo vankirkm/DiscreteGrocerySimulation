@@ -7,6 +7,7 @@ public class Customer{
     private double arrivalTime;
     private double shoppingTime;
     private double checkoutTime;
+    private double waitTime;
 
     public Customer(double arrivalTime, int numItems, double timePerItem, int customerNumber){
         this.arrivalTime = arrivalTime;
@@ -15,6 +16,7 @@ public class Customer{
         this.customerNumber = customerNumber;
         this.shoppingTime = (numItems * timePerItem) + arrivalTime;
         this.checkoutTime = 0;
+        this.waitTime = 0;
     }
 
     public int getNumItems(){
@@ -37,8 +39,16 @@ public class Customer{
         return customerNumber;
     }
 
+    public double getWaitTime() {
+        return waitTime;
+    }
+
     public void setCheckoutTime(double checkoutTime){
         this.checkoutTime = checkoutTime;
+    }
+
+    public void setWaitTime(double prevWaitTime, double currentWaitTime){
+        this.waitTime = currentWaitTime - prevWaitTime;
     }
 
     public String toString(){
