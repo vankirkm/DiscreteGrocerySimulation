@@ -1,0 +1,1357 @@
+1.19 Arrival: Customer 381
+3.29 Arrival: Customer 251
+5.13 Arrival: Customer 66
+7.1 Arrival: Customer 54
+8.75 Arrival: Customer 97
+8.8 Arrival: Customer 384
+9.34 Arrival: Customer 108
+10.13 Arrival: Customer 62
+10.97 Arrival: Customer 407
+12.89 End Shopping: Customer 62
+13.07 Arrival: Customer 349
+14.19 Arrival: Customer 391
+14.190000000000001 End Checkout: Customer 62
+15.68 Arrival: Customer 394
+16.35 End Shopping: Customer 97
+18.35 End Checkout: Customer 97
+19.6 End Shopping: Customer 108
+20.03 Arrival: Customer 200
+21.5 End Checkout: Customer 108
+23.0 Arrival: Customer 60
+23.11 Arrival: Customer 16
+24.09 End Shopping: Customer 66
+25.8 Arrival: Customer 450
+26.14 Arrival: Customer 150
+27.29 End Checkout: Customer 66
+27.71 End Shopping: Customer 381
+28.33 Arrival: Customer 17
+29.05 Arrival: Customer 94
+30.22 End Shopping: Customer 150
+31.01 End Checkout: Customer 381
+31.52 End Checkout: Customer 150
+31.730000000000004 End Shopping: Customer 200
+32.95 Arrival: Customer 212
+33.09 End Shopping: Customer 391
+33.85 End Shopping: Customer 94
+34.1 End Shopping: Customer 54
+34.35 Arrival: Customer 217
+34.63 End Checkout: Customer 200
+34.96 End Shopping: Customer 212
+35.17 Arrival: Customer 357
+35.25 End Checkout: Customer 94
+35.89 Arrival: Customer 290
+35.94 Arrival: Customer 315
+36.14 End Checkout: Customer 391
+36.2 End Shopping: Customer 16
+36.26 End Checkout: Customer 212
+36.31 End Shopping: Customer 251
+36.75 End Shopping: Customer 60
+37.82 Arrival: Customer 180
+37.9 End Checkout: Customer 54
+38.300000000000004 End Checkout: Customer 16
+38.85 End Checkout: Customer 60
+38.87 End Shopping: Customer 290
+39.61 End Checkout: Customer 251
+40.07 End Checkout: Customer 290
+40.32 Arrival: Customer 236
+40.52 Arrival: Customer 181
+40.72 Arrival: Customer 7
+42.129999999999995 End Shopping: Customer 407
+42.39 Arrival: Customer 25
+43.07 End Shopping: Customer 349
+43.59 End Shopping: Customer 17
+44.62 Arrival: Customer 439
+45.470000000000006 End Shopping: Customer 181
+46.029999999999994 End Checkout: Customer 407
+46.290000000000006 End Checkout: Customer 17
+46.57 End Checkout: Customer 349
+46.970000000000006 End Checkout: Customer 181
+48.09 Arrival: Customer 224
+48.45 End Shopping: Customer 25
+49.519999999999996 End Shopping: Customer 394
+49.52 Arrival: Customer 334
+49.76 Arrival: Customer 118
+50.050000000000004 End Checkout: Customer 25
+51.41 Arrival: Customer 207
+52.72 End Checkout: Customer 394
+52.85 Arrival: Customer 143
+53.56 Arrival: Customer 83
+53.57 Arrival: Customer 147
+55.42 Arrival: Customer 18
+56.22 Arrival: Customer 136
+56.52 Arrival: Customer 73
+56.82000000000001 End Shopping: Customer 224
+58.5 End Shopping: Customer 73
+58.720000000000006 End Checkout: Customer 224
+59.7 End Checkout: Customer 73
+60.01 Arrival: Customer 335
+60.02 Arrival: Customer 146
+60.099999999999994 End Shopping: Customer 439
+60.81 End Shopping: Customer 217
+61.36 Arrival: Customer 87
+61.42 End Shopping: Customer 136
+62.3 End Checkout: Customer 439
+62.4 Arrival: Customer 152
+63.22 End Checkout: Customer 136
+63.35 Arrival: Customer 325
+63.839999999999996 End Shopping: Customer 207
+64.24 Arrival: Customer 233
+65.26 End Checkout: Customer 217
+65.36 End Shopping: Customer 118
+65.94 End Checkout: Customer 207
+66.06 End Shopping: Customer 335
+66.11 Arrival: Customer 174
+67.56 End Checkout: Customer 335
+67.58 End Shopping: Customer 146
+68.07 Arrival: Customer 154
+68.21000000000001 End Shopping: Customer 357
+68.36 End Checkout: Customer 118
+68.75 Arrival: Customer 248
+69.28 End Checkout: Customer 146
+69.46000000000001 End Shopping: Customer 87
+69.53 Arrival: Customer 98
+69.55 Arrival: Customer 30
+69.97999999999999 End Shopping: Customer 315
+71.06 End Checkout: Customer 87
+72.0 Arrival: Customer 345
+72.87 Arrival: Customer 351
+73.16000000000001 End Checkout: Customer 357
+73.82999999999998 End Checkout: Customer 315
+76.43 End Shopping: Customer 248
+76.58 Arrival: Customer 227
+77.32 Arrival: Customer 205
+77.6 End Shopping: Customer 227
+77.68 Arrival: Customer 253
+78.03 End Checkout: Customer 248
+78.15 End Shopping: Customer 345
+78.72 End Shopping: Customer 450
+78.8 End Checkout: Customer 227
+79.2 Arrival: Customer 266
+79.22 End Shopping: Customer 18
+79.61 Arrival: Customer 170
+79.65 End Checkout: Customer 345
+79.86 End Shopping: Customer 154
+80.19 End Shopping: Customer 384
+80.78 Arrival: Customer 211
+81.54 End Shopping: Customer 266
+81.63999999999999 End Shopping: Customer 205
+81.72 End Shopping: Customer 152
+81.76 End Checkout: Customer 154
+82.19 End Shopping: Customer 147
+82.22 End Checkout: Customer 18
+82.52 End Checkout: Customer 450
+82.75 Arrival: Customer 291
+82.84 End Checkout: Customer 266
+83.03 Arrival: Customer 178
+83.03999999999999 End Checkout: Customer 205
+83.5 Arrival: Customer 198
+83.57 End Shopping: Customer 174
+84.42 End Checkout: Customer 152
+85.14 End Checkout: Customer 384
+85.64 Arrival: Customer 272
+86.47 End Checkout: Customer 174
+86.89 End Checkout: Customer 147
+87.12 Arrival: Customer 213
+89.05 End Shopping: Customer 178
+89.58 Arrival: Customer 1
+90.75 End Checkout: Customer 178
+90.86 Arrival: Customer 317
+91.36 End Shopping: Customer 272
+92.36999999999999 End Shopping: Customer 233
+92.76 End Checkout: Customer 272
+92.98 End Shopping: Customer 1
+93.38 End Shopping: Customer 211
+93.89 Arrival: Customer 238
+94.48 End Checkout: Customer 1
+95.28 End Checkout: Customer 211
+95.56 Arrival: Customer 258
+95.82 End Checkout: Customer 233
+96.35 End Shopping: Customer 325
+97.33 Arrival: Customer 99
+98.25 End Shopping: Customer 351
+100.95 End Shopping: Customer 236
+101.1 End Checkout: Customer 325
+101.38 End Shopping: Customer 291
+101.6 End Checkout: Customer 351
+101.97 End Shopping: Customer 83
+102.16000000000001 End Shopping: Customer 334
+103.46 End Shopping: Customer 317
+103.59 Arrival: Customer 280
+103.78 End Shopping: Customer 98
+104.37 Arrival: Customer 377
+104.53 End Checkout: Customer 291
+104.64 Arrival: Customer 313
+105.3 End Checkout: Customer 236
+105.31 End Shopping: Customer 143
+105.42 End Shopping: Customer 377
+105.46 End Checkout: Customer 317
+106.32 End Checkout: Customer 83
+106.51 End Checkout: Customer 334
+106.52 End Checkout: Customer 377
+107.03 End Checkout: Customer 98
+107.99 End Shopping: Customer 238
+109.46000000000001 End Checkout: Customer 143
+109.81 End Shopping: Customer 258
+109.99 End Checkout: Customer 238
+110.16 Arrival: Customer 426
+110.42 Arrival: Customer 50
+110.64 Arrival: Customer 185
+111.07 Arrival: Customer 166
+111.92 End Shopping: Customer 185
+112.23 Arrival: Customer 354
+112.76 End Checkout: Customer 258
+113.02 End Checkout: Customer 185
+114.28 End Shopping: Customer 426
+114.39999999999999 End Shopping: Customer 166
+114.49 Arrival: Customer 114
+115.33 End Shopping: Customer 354
+115.68 End Checkout: Customer 426
+115.69999999999999 End Checkout: Customer 166
+115.82 End Shopping: Customer 180
+116.83 End Checkout: Customer 354
+117.03999999999999 End Shopping: Customer 198
+117.64 End Shopping: Customer 313
+119.52 Arrival: Customer 301
+119.95 Arrival: Customer 402
+120.29 End Checkout: Customer 313
+120.38 Arrival: Customer 263
+120.82 End Checkout: Customer 180
+120.96 End Shopping: Customer 263
+120.99 End Checkout: Customer 198
+121.96 End Shopping: Customer 114
+122.05999999999999 End Checkout: Customer 263
+122.59 Arrival: Customer 235
+123.86 End Checkout: Customer 114
+123.89 End Shopping: Customer 99
+124.96 Arrival: Customer 448
+125.52000000000001 End Shopping: Customer 213
+126.13 End Shopping: Customer 30
+126.22 End Shopping: Customer 50
+126.47 Arrival: Customer 193
+127.35 End Shopping: Customer 280
+127.42 End Shopping: Customer 402
+127.44 Arrival: Customer 390
+127.49 End Checkout: Customer 99
+128.92000000000002 End Shopping: Customer 7
+128.94 Arrival: Customer 93
+129.22 End Checkout: Customer 50
+129.32 End Checkout: Customer 402
+129.65 Arrival: Customer 310
+130.43 End Checkout: Customer 30
+130.52 End Checkout: Customer 213
+130.54999999999998 End Checkout: Customer 280
+131.03 Arrival: Customer 3
+131.99 End Shopping: Customer 193
+132.12 Arrival: Customer 91
+132.46 Arrival: Customer 78
+132.62 Arrival: Customer 393
+133.59 End Checkout: Customer 193
+133.92000000000002 End Checkout: Customer 7
+134.6 Arrival: Customer 451
+134.61 End Shopping: Customer 170
+135.16 Arrival: Customer 396
+135.85999999999999 End Shopping: Customer 301
+137.44 Arrival: Customer 250
+138.24 End Shopping: Customer 390
+138.80999999999997 End Checkout: Customer 301
+139.36 End Checkout: Customer 170
+139.47 Arrival: Customer 283
+140.44 End Checkout: Customer 390
+140.78 End Shopping: Customer 451
+142.38 End Checkout: Customer 451
+143.1 End Shopping: Customer 393
+143.79 End Shopping: Customer 283
+144.29 Arrival: Customer 106
+144.43 Arrival: Customer 56
+144.9 End Checkout: Customer 393
+145.42000000000002 End Shopping: Customer 310
+145.59 End Checkout: Customer 283
+145.66 End Shopping: Customer 3
+145.98 Arrival: Customer 156
+146.86 Arrival: Customer 74
+147.03 Arrival: Customer 130
+147.06 End Shopping: Customer 156
+148.26 End Checkout: Customer 156
+148.31 Arrival: Customer 132
+148.37 End Checkout: Customer 310
+148.38 Arrival: Customer 110
+148.60999999999999 End Checkout: Customer 3
+151.48000000000002 End Shopping: Customer 253
+151.58 Arrival: Customer 270
+152.13 Arrival: Customer 122
+152.2 Arrival: Customer 225
+153.05 Arrival: Customer 65
+153.31 Arrival: Customer 189
+154.43 Arrival: Customer 309
+154.79 End Shopping: Customer 132
+154.87 End Shopping: Customer 130
+154.92 Arrival: Customer 45
+154.93 Arrival: Customer 115
+155.23000000000002 End Shopping: Customer 56
+155.34 End Shopping: Customer 448
+156.39 End Checkout: Customer 132
+156.42 Arrival: Customer 116
+156.48000000000002 End Checkout: Customer 253
+156.67000000000002 End Checkout: Customer 130
+157.19 Arrival: Customer 321
+157.23000000000002 End Checkout: Customer 56
+157.4 End Shopping: Customer 78
+158.2 Arrival: Customer 369
+159.28 End Shopping: Customer 270
+159.79 End Checkout: Customer 448
+161.15 End Shopping: Customer 309
+161.28 End Checkout: Customer 270
+161.39 Arrival: Customer 230
+161.55 End Checkout: Customer 78
+162.71 Arrival: Customer 344
+162.75 End Checkout: Customer 309
+163.43 Arrival: Customer 53
+163.57 End Shopping: Customer 115
+164.21 Arrival: Customer 414
+165.4 End Shopping: Customer 396
+165.55 Arrival: Customer 218
+165.76999999999998 End Checkout: Customer 115
+166.27 End Shopping: Customer 235
+167.69 Arrival: Customer 440
+167.97 End Shopping: Customer 45
+168.46 End Shopping: Customer 91
+169.87 End Checkout: Customer 45
+170.20000000000002 End Checkout: Customer 396
+171.07000000000002 End Checkout: Customer 235
+171.11 Arrival: Customer 292
+171.26 Arrival: Customer 415
+171.89 End Shopping: Customer 440
+172.24 End Shopping: Customer 250
+172.76000000000002 End Checkout: Customer 91
+173.48999999999998 End Checkout: Customer 440
+174.18 End Shopping: Customer 110
+174.51 Arrival: Customer 356
+174.53 End Shopping: Customer 93
+175.04 Arrival: Customer 36
+175.32999999999998 End Shopping: Customer 122
+176.5 End Shopping: Customer 36
+176.54999999999998 End Shopping: Customer 356
+177.24 End Checkout: Customer 250
+177.6 End Checkout: Customer 36
+177.68 Arrival: Customer 403
+177.95 End Checkout: Customer 356
+178.33 End Checkout: Customer 110
+178.88 End Checkout: Customer 93
+179.32999999999998 End Checkout: Customer 122
+179.97 Arrival: Customer 293
+181.19 End Shopping: Customer 344
+181.29 Arrival: Customer 10
+182.06 Arrival: Customer 151
+182.27 Arrival: Customer 133
+182.81 End Shopping: Customer 189
+183.94 End Shopping: Customer 225
+184.13 Arrival: Customer 353
+184.13 End Shopping: Customer 65
+184.29 End Checkout: Customer 344
+185.14 Arrival: Customer 400
+185.24 End Shopping: Customer 151
+185.7 Arrival: Customer 444
+186.04 End Shopping: Customer 369
+186.41 Arrival: Customer 438
+186.84 End Checkout: Customer 151
+187.76 End Checkout: Customer 189
+187.98 End Checkout: Customer 65
+188.24 End Checkout: Customer 225
+188.41 Arrival: Customer 322
+188.5 End Shopping: Customer 400
+189.23999999999998 End Checkout: Customer 369
+189.44 End Shopping: Customer 414
+189.66 Arrival: Customer 432
+190.05 End Shopping: Customer 321
+190.08 Arrival: Customer 46
+190.1 End Checkout: Customer 400
+190.31 Arrival: Customer 208
+191.23000000000002 End Shopping: Customer 133
+191.47 Arrival: Customer 6
+191.98999999999998 End Shopping: Customer 230
+192.45000000000002 End Shopping: Customer 74
+192.89 End Checkout: Customer 414
+193.03000000000003 End Checkout: Customer 133
+193.60000000000002 End Checkout: Customer 321
+194.65 End Shopping: Customer 208
+195.48999999999998 End Checkout: Customer 230
+195.61 Arrival: Customer 447
+195.9 Arrival: Customer 243
+196.07 Arrival: Customer 366
+196.22 End Shopping: Customer 415
+196.35 End Checkout: Customer 208
+196.8 End Checkout: Customer 74
+196.82 Arrival: Customer 160
+197.44 Arrival: Customer 278
+197.95 Arrival: Customer 57
+198.36 Arrival: Customer 364
+199.69000000000003 End Shopping: Customer 447
+199.82 Arrival: Customer 346
+200.62 End Checkout: Customer 415
+201.09000000000003 End Checkout: Customer 447
+201.89999999999998 End Shopping: Customer 57
+202.51 Arrival: Customer 245
+203.39999999999998 End Checkout: Customer 57
+204.33 Arrival: Customer 406
+205.04 Arrival: Customer 161
+205.35 End Shopping: Customer 366
+205.44 End Shopping: Customer 444
+206.01 End Shopping: Customer 293
+206.25 End Shopping: Customer 218
+206.48999999999998 End Shopping: Customer 10
+206.88 End Shopping: Customer 116
+207.15 End Checkout: Customer 366
+207.57 Arrival: Customer 229
+207.59000000000003 End Shopping: Customer 292
+207.73 End Shopping: Customer 353
+208.09 Arrival: Customer 101
+208.14 End Checkout: Customer 444
+209.2 End Shopping: Customer 438
+209.41 End Checkout: Customer 293
+209.54 End Checkout: Customer 10
+210.1 End Checkout: Customer 218
+211.28 End Shopping: Customer 403
+211.4 Arrival: Customer 195
+211.44000000000003 End Shopping: Customer 406
+211.73 End Checkout: Customer 353
+211.78 End Checkout: Customer 116
+211.83 End Shopping: Customer 53
+211.99000000000004 End Checkout: Customer 292
+213.34000000000003 End Checkout: Customer 406
+213.35 End Checkout: Customer 438
+213.55 Arrival: Customer 27
+213.83 Arrival: Customer 302
+214.68 Arrival: Customer 295
+214.78 End Checkout: Customer 403
+214.91 Arrival: Customer 140
+215.54999999999998 End Shopping: Customer 322
+215.83 End Shopping: Customer 295
+215.83 End Checkout: Customer 53
+215.92 Arrival: Customer 34
+216.8 Arrival: Customer 37
+216.93 End Checkout: Customer 295
+218.53 Arrival: Customer 386
+218.56 End Shopping: Customer 6
+218.61 End Shopping: Customer 195
+218.7 End Checkout: Customer 322
+218.97 Arrival: Customer 38
+219.22 End Shopping: Customer 106
+219.3 End Shopping: Customer 432
+220.17 Arrival: Customer 352
+220.31 End Checkout: Customer 195
+221.3 Arrival: Customer 4
+221.58 End Shopping: Customer 243
+221.61 End Checkout: Customer 6
+221.73 End Shopping: Customer 140
+221.75 Arrival: Customer 20
+222.96 Arrival: Customer 326
+223.20000000000002 End Checkout: Customer 432
+223.23 Arrival: Customer 69
+223.82999999999998 End Checkout: Customer 140
+224.17 End Checkout: Customer 106
+224.78 End Checkout: Customer 243
+227.52 Arrival: Customer 359
+228.33 Arrival: Customer 294
+229.23 Arrival: Customer 256
+229.35000000000002 End Shopping: Customer 46
+229.52 Arrival: Customer 88
+230.13 Arrival: Customer 287
+231.02 Arrival: Customer 103
+231.47 Arrival: Customer 261
+231.65 End Shopping: Customer 20
+231.69 Arrival: Customer 429
+232.59 End Shopping: Customer 326
+233.01 Arrival: Customer 254
+233.75 End Checkout: Customer 20
+233.90000000000003 End Checkout: Customer 46
+234.18 End Shopping: Customer 37
+234.49 End Checkout: Customer 326
+234.99 End Shopping: Customer 294
+235.88 End Shopping: Customer 287
+235.89 End Shopping: Customer 256
+236.10000000000002 End Shopping: Customer 4
+236.32 Arrival: Customer 423
+236.59 End Checkout: Customer 294
+236.61 End Shopping: Customer 302
+237.28 End Checkout: Customer 37
+237.38 End Checkout: Customer 287
+237.48999999999998 End Checkout: Customer 256
+237.99 Arrival: Customer 274
+239.10000000000002 End Checkout: Customer 4
+239.63 End Shopping: Customer 245
+240.24 End Shopping: Customer 161
+240.31 End Checkout: Customer 302
+240.89 End Shopping: Customer 386
+242.07 Arrival: Customer 121
+242.29 Arrival: Customer 319
+242.87 End Shopping: Customer 261
+243.48 Arrival: Customer 222
+244.52 Arrival: Customer 153
+244.53 End Checkout: Customer 245
+244.57000000000002 End Shopping: Customer 359
+244.58 Arrival: Customer 23
+244.64999999999998 End Shopping: Customer 69
+244.87 End Checkout: Customer 261
+244.99 End Checkout: Customer 161
+245.04 End Checkout: Customer 386
+245.71 Arrival: Customer 318
+245.9 End Shopping: Customer 88
+246.31 Arrival: Customer 137
+246.31 End Shopping: Customer 160
+246.67 Arrival: Customer 117
+246.82 Arrival: Customer 328
+247.41 End Shopping: Customer 254
+247.7 End Checkout: Customer 69
+247.84 Arrival: Customer 82
+247.97 Arrival: Customer 370
+248.12000000000003 End Checkout: Customer 359
+248.23999999999998 End Shopping: Customer 222
+248.63 Arrival: Customer 127
+248.66 End Shopping: Customer 346
+248.71 Arrival: Customer 333
+248.89000000000001 End Shopping: Customer 101
+249.20000000000002 End Checkout: Customer 88
+249.67 Arrival: Customer 126
+249.67000000000002 End Shopping: Customer 153
+249.93999999999997 End Checkout: Customer 222
+250.03 End Shopping: Customer 127
+250.16 End Checkout: Customer 254
+250.67 End Shopping: Customer 328
+250.76 End Checkout: Customer 160
+251.17000000000002 End Checkout: Customer 153
+251.23 End Checkout: Customer 127
+251.96 End Shopping: Customer 318
+252.01 Arrival: Customer 41
+252.31 End Checkout: Customer 346
+252.36999999999998 End Checkout: Customer 328
+252.87 Arrival: Customer 340
+253.46 End Checkout: Customer 318
+253.89000000000001 End Checkout: Customer 101
+254.18 Arrival: Customer 428
+254.37 Arrival: Customer 421
+254.64999999999998 End Shopping: Customer 126
+255.86 Arrival: Customer 31
+256.25 End Checkout: Customer 126
+256.47 Arrival: Customer 29
+256.71999999999997 End Shopping: Customer 278
+256.74 End Shopping: Customer 352
+256.97 End Shopping: Customer 82
+257.1 Arrival: Customer 129
+257.44 End Shopping: Customer 121
+259.07000000000005 End Checkout: Customer 82
+259.12 End Shopping: Customer 41
+260.72 End Shopping: Customer 103
+260.89 End Checkout: Customer 121
+261.02 End Checkout: Customer 41
+261.32 End Checkout: Customer 278
+261.39 End Checkout: Customer 352
+261.51 End Shopping: Customer 229
+263.54 Arrival: Customer 40
+263.86 Arrival: Customer 329
+264.06 End Shopping: Customer 364
+264.68 End Shopping: Customer 31
+265.42 End Checkout: Customer 103
+265.69 Arrival: Customer 331
+266.33 End Shopping: Customer 331
+266.40999999999997 End Checkout: Customer 229
+266.45000000000005 End Shopping: Customer 129
+266.58 End Checkout: Customer 31
+266.73 End Shopping: Customer 319
+266.89 Arrival: Customer 307
+267.43 End Checkout: Customer 331
+268.17 End Shopping: Customer 29
+268.31 End Checkout: Customer 364
+268.41 Arrival: Customer 431
+268.43 End Shopping: Customer 333
+269.30000000000007 End Checkout: Customer 129
+269.86 Arrival: Customer 419
+270.03000000000003 End Checkout: Customer 319
+270.1 End Shopping: Customer 40
+270.17 End Checkout: Customer 29
+271.28000000000003 End Checkout: Customer 333
+271.90000000000003 End Checkout: Customer 40
+273.9 Arrival: Customer 395
+274.26 End Shopping: Customer 38
+274.27 End Shopping: Customer 117
+274.57 End Shopping: Customer 27
+275.75 Arrival: Customer 323
+277.41999999999996 End Checkout: Customer 117
+277.48 Arrival: Customer 95
+277.56 End Shopping: Customer 395
+277.71999999999997 End Shopping: Customer 423
+278.21 End Shopping: Customer 370
+278.86 End Checkout: Customer 395
+279.11 End Checkout: Customer 38
+279.27 End Checkout: Customer 27
+279.27 Arrival: Customer 300
+280.89000000000004 End Shopping: Customer 431
+281.03 Arrival: Customer 28
+281.96999999999997 End Checkout: Customer 423
+282.01 End Checkout: Customer 370
+282.03 End Shopping: Customer 137
+282.09 End Shopping: Customer 429
+283.09000000000003 End Checkout: Customer 431
+283.58 Arrival: Customer 271
+283.8 Arrival: Customer 39
+283.98 End Shopping: Customer 421
+284.4 Arrival: Customer 169
+285.5 Arrival: Customer 210
+285.57 End Shopping: Customer 300
+286.38 End Checkout: Customer 137
+286.5 Arrival: Customer 324
+286.55 End Shopping: Customer 39
+287.09 End Checkout: Customer 429
+287.46999999999997 End Checkout: Customer 300
+287.47 Arrival: Customer 52
+287.76 Arrival: Customer 197
+287.81 Arrival: Customer 55
+288.05 End Checkout: Customer 39
+288.33000000000004 End Checkout: Customer 421
+288.57 End Shopping: Customer 340
+289.24 End Shopping: Customer 34
+289.55 End Shopping: Customer 307
+292.65000000000003 End Checkout: Customer 307
+292.67 End Checkout: Customer 340
+293.84000000000003 End Checkout: Customer 34
+295.46 End Shopping: Customer 197
+295.72 End Shopping: Customer 55
+296.01 Arrival: Customer 162
+296.15999999999997 End Shopping: Customer 169
+296.7 Arrival: Customer 61
+297.0 End Shopping: Customer 210
+297.02 End Shopping: Customer 271
+297.15999999999997 End Checkout: Customer 197
+297.33 End Shopping: Customer 162
+297.42 End Checkout: Customer 55
+298.18 End Shopping: Customer 419
+298.53 End Checkout: Customer 162
+299.21 End Checkout: Customer 169
+299.91 End Shopping: Customer 274
+300.15 End Checkout: Customer 210
+300.21999999999997 End Checkout: Customer 271
+300.38 End Shopping: Customer 23
+301.64 Arrival: Customer 68
+301.97 End Shopping: Customer 323
+302.58 End Checkout: Customer 419
+302.59 Arrival: Customer 84
+303.73999999999995 End Shopping: Customer 84
+303.9 End Shopping: Customer 428
+304.31 End Checkout: Customer 274
+304.84 End Checkout: Customer 84
+305.15 Arrival: Customer 234
+305.38 End Checkout: Customer 23
+305.87 End Checkout: Customer 323
+306.46 Arrival: Customer 284
+308.09999999999997 End Checkout: Customer 428
+308.62 Arrival: Customer 306
+310.97 Arrival: Customer 134
+312.29 End Shopping: Customer 134
+312.52 End Shopping: Customer 68
+313.49 End Checkout: Customer 134
+314.32 End Checkout: Customer 68
+315.88 End Shopping: Customer 61
+317.42 End Shopping: Customer 306
+317.65 End Shopping: Customer 234
+318.43999999999994 End Shopping: Customer 28
+318.58 End Checkout: Customer 61
+318.88 Arrival: Customer 168
+319.52000000000004 End Checkout: Customer 306
+320.9 End Checkout: Customer 234
+320.91 Arrival: Customer 35
+322.5899999999999 End Checkout: Customer 28
+323.3 End Shopping: Customer 95
+325.52 Arrival: Customer 124
+326.35 End Shopping: Customer 35
+327.31 Arrival: Customer 360
+327.75 End Checkout: Customer 35
+328.2 End Checkout: Customer 95
+328.77 Arrival: Customer 96
+330.33 Arrival: Customer 44
+331.14 End Shopping: Customer 324
+331.52 End Shopping: Customer 124
+332.06 Arrival: Customer 443
+332.08 Arrival: Customer 72
+333.02 End Checkout: Customer 124
+333.07 End Shopping: Customer 360
+333.15 Arrival: Customer 219
+333.94 Arrival: Customer 425
+334.46999999999997 End Checkout: Customer 360
+334.94 End Checkout: Customer 324
+335.19 End Shopping: Customer 219
+336.39 End Checkout: Customer 219
+337.43 End Shopping: Customer 168
+338.06 End Shopping: Customer 329
+340.49 Arrival: Customer 417
+341.18 End Checkout: Customer 168
+341.44 Arrival: Customer 80
+342.71 End Checkout: Customer 329
+343.27 End Shopping: Customer 96
+345.27 End Checkout: Customer 96
+346.8 Arrival: Customer 416
+347.08 End Shopping: Customer 72
+347.08 End Shopping: Customer 80
+347.55 Arrival: Customer 371
+348.68 End Checkout: Customer 80
+348.81 Arrival: Customer 12
+350.08 End Checkout: Customer 72
+351.13 Arrival: Customer 312
+351.6 End Shopping: Customer 52
+352.52 Arrival: Customer 363
+353.22 Arrival: Customer 286
+353.48 Arrival: Customer 167
+354.33 Arrival: Customer 100
+354.85999999999996 End Shopping: Customer 284
+355.48 Arrival: Customer 77
+355.75 Arrival: Customer 446
+356.25 End Checkout: Customer 52
+358.18 End Shopping: Customer 100
+358.85999999999996 End Checkout: Customer 284
+359.88 End Checkout: Customer 100
+361.13 End Shopping: Customer 12
+362.05 End Shopping: Customer 446
+363.19 Arrival: Customer 303
+363.83 End Checkout: Customer 12
+363.93 End Shopping: Customer 371
+363.95 End Checkout: Customer 446
+365.52 End Shopping: Customer 44
+366.3 Arrival: Customer 420
+366.58 End Checkout: Customer 371
+366.62 Arrival: Customer 398
+366.9 Arrival: Customer 175
+367.82 End Shopping: Customer 398
+368.07 Arrival: Customer 265
+369.02 End Checkout: Customer 398
+369.59 Arrival: Customer 427
+369.75 End Shopping: Customer 265
+370.07 End Checkout: Customer 44
+371.05 End Checkout: Customer 265
+371.26 End Shopping: Customer 443
+371.57 End Shopping: Customer 417
+373.31 Arrival: Customer 362
+374.6 Arrival: Customer 104
+374.96999999999997 End Checkout: Customer 417
+375.02 Arrival: Customer 368
+375.18 Arrival: Customer 379
+375.26 End Checkout: Customer 443
+375.32 Arrival: Customer 199
+376.93 End Shopping: Customer 312
+377.61 Arrival: Customer 33
+378.38 End Shopping: Customer 379
+379.06 End Shopping: Customer 425
+379.13 End Shopping: Customer 199
+379.18 Arrival: Customer 21
+379.29 Arrival: Customer 434
+379.88 End Checkout: Customer 379
+379.93 End Checkout: Customer 312
+380.12 End Shopping: Customer 77
+380.43 End Checkout: Customer 199
+381.25 End Shopping: Customer 303
+381.31 End Shopping: Customer 286
+383.06 End Shopping: Customer 167
+383.22 End Checkout: Customer 77
+383.39 Arrival: Customer 11
+383.41 End Checkout: Customer 425
+384.12 Arrival: Customer 276
+384.3 End Checkout: Customer 303
+385.01 End Shopping: Customer 21
+385.96 End Checkout: Customer 286
+387.11 End Checkout: Customer 21
+387.61 End Checkout: Customer 167
+387.77 Arrival: Customer 277
+387.97 Arrival: Customer 202
+388.31 End Shopping: Customer 11
+388.46 Arrival: Customer 350
+389.45 Arrival: Customer 187
+389.91 End Checkout: Customer 11
+390.51 Arrival: Customer 343
+393.19 Arrival: Customer 131
+395.0 End Shopping: Customer 363
+395.92 Arrival: Customer 330
+396.22 Arrival: Customer 413
+397.03 End Shopping: Customer 427
+397.5 End Shopping: Customer 420
+398.01 Arrival: Customer 139
+398.1 Arrival: Customer 102
+399.0 End Shopping: Customer 33
+399.19 End Shopping: Customer 330
+399.72 End Shopping: Customer 416
+399.95 End Checkout: Customer 363
+400.42999999999995 End Checkout: Customer 427
+400.49 End Checkout: Customer 330
+401.29 Arrival: Customer 5
+401.49 Arrival: Customer 92
+401.9 End Checkout: Customer 420
+402.03 Arrival: Customer 341
+402.15 End Checkout: Customer 33
+403.36 End Shopping: Customer 413
+403.45 End Shopping: Customer 187
+404.05 End Shopping: Customer 362
+404.17 Arrival: Customer 305
+404.17 End Checkout: Customer 416
+404.19 Arrival: Customer 314
+405.06 End Checkout: Customer 413
+405.12 End Shopping: Customer 368
+405.61 End Shopping: Customer 202
+406.15 End Checkout: Customer 187
+407.81 End Checkout: Customer 202
+408.15000000000003 End Shopping: Customer 102
+408.6 End Shopping: Customer 104
+408.87 Arrival: Customer 336
+408.95 End Checkout: Customer 362
+409.27 End Checkout: Customer 368
+409.34 Arrival: Customer 138
+409.83 End Shopping: Customer 341
+410.23 End Shopping: Customer 139
+410.77 Arrival: Customer 201
+410.90000000000003 End Checkout: Customer 102
+411.08 Arrival: Customer 183
+411.43 End Checkout: Customer 341
+411.49 End Shopping: Customer 5
+411.63 Arrival: Customer 191
+412.02 Arrival: Customer 320
+412.14 End Shopping: Customer 175
+412.88 End Checkout: Customer 139
+413.1 End Checkout: Customer 104
+413.73 End Shopping: Customer 92
+413.79 Arrival: Customer 206
+414.12 Arrival: Customer 249
+414.24 End Checkout: Customer 5
+414.55 End Shopping: Customer 434
+415.17 Arrival: Customer 215
+416.93 End Checkout: Customer 92
+416.96 Arrival: Customer 9
+417.03999999999996 End Checkout: Customer 175
+418.36 Arrival: Customer 389
+418.38 Arrival: Customer 365
+418.7 End Checkout: Customer 434
+419.07 End Shopping: Customer 191
+420.67 End Checkout: Customer 191
+421.04 Arrival: Customer 358
+423.22999999999996 End Shopping: Customer 183
+423.32 End Shopping: Customer 249
+423.71 End Shopping: Customer 314
+424.06 Arrival: Customer 155
+424.49 Arrival: Customer 401
+425.12999999999994 End Checkout: Customer 183
+425.32 End Checkout: Customer 249
+425.59 Arrival: Customer 112
+426.18 Arrival: Customer 105
+426.51 End Checkout: Customer 314
+427.27 End Shopping: Customer 201
+430.69 End Shopping: Customer 112
+430.91999999999996 End Checkout: Customer 201
+431.16 End Shopping: Customer 276
+431.17999999999995 End Shopping: Customer 138
+432.11 End Shopping: Customer 305
+432.52 Arrival: Customer 418
+432.69 End Checkout: Customer 112
+432.83 End Shopping: Customer 401
+433.35 Arrival: Customer 0
+433.5 End Shopping: Customer 105
+433.54 End Shopping: Customer 389
+433.78 End Shopping: Customer 9
+434.06 End Shopping: Customer 155
+434.22999999999996 End Checkout: Customer 138
+434.43 End Checkout: Customer 401
+435.1 End Checkout: Customer 105
+435.21000000000004 End Checkout: Customer 305
+435.26000000000005 End Checkout: Customer 276
+435.74 Arrival: Customer 264
+435.86 End Checkout: Customer 155
+436.64000000000004 End Checkout: Customer 389
+436.83 Arrival: Customer 49
+437.2 Arrival: Customer 372
+437.22999999999996 End Checkout: Customer 9
+438.35 Arrival: Customer 90
+438.71000000000004 End Shopping: Customer 0
+439.1 Arrival: Customer 304
+439.27 Arrival: Customer 380
+440.11 End Checkout: Customer 0
+440.90999999999997 End Shopping: Customer 343
+442.33 Arrival: Customer 247
+444.57 End Shopping: Customer 336
+445.30999999999995 End Checkout: Customer 343
+445.37 Arrival: Customer 148
+446.27 End Shopping: Customer 350
+446.41999999999996 End Shopping: Customer 277
+446.87 End Shopping: Customer 90
+447.61 Arrival: Customer 268
+448.47 End Checkout: Customer 90
+448.62 End Shopping: Customer 304
+449.12 End Checkout: Customer 336
+449.31 End Shopping: Customer 49
+449.53 Arrival: Customer 298
+449.53 Arrival: Customer 316
+449.64 Arrival: Customer 387
+450.32 End Checkout: Customer 350
+450.32 End Checkout: Customer 304
+450.39 End Shopping: Customer 131
+450.96999999999997 End Checkout: Customer 277
+451.88 End Shopping: Customer 365
+452.51 End Checkout: Customer 49
+453.83 End Shopping: Customer 380
+454.65 End Shopping: Customer 320
+454.81 End Shopping: Customer 268
+454.84999999999997 End Shopping: Customer 316
+455.13 End Checkout: Customer 365
+455.14 End Checkout: Customer 131
+456.40000000000003 End Shopping: Customer 215
+456.54999999999995 End Checkout: Customer 316
+456.61 End Checkout: Customer 268
+456.63 End Checkout: Customer 380
+457.41 Arrival: Customer 128
+457.93 Arrival: Customer 135
+458.09999999999997 End Checkout: Customer 320
+459.84 Arrival: Customer 259
+459.95000000000005 End Checkout: Customer 215
+462.79 End Shopping: Customer 206
+462.92999999999995 End Shopping: Customer 298
+464.92999999999995 End Checkout: Customer 298
+465.65 Arrival: Customer 260
+466.54 End Checkout: Customer 206
+469.46999999999997 End Shopping: Customer 247
+470.72 Arrival: Customer 220
+472.61999999999995 End Checkout: Customer 247
+473.15999999999997 End Shopping: Customer 372
+473.36 End Shopping: Customer 128
+473.9 Arrival: Customer 203
+475.32000000000005 End Shopping: Customer 220
+475.34000000000003 End Shopping: Customer 264
+475.46000000000004 End Checkout: Customer 128
+475.81 End Shopping: Customer 418
+476.72 End Checkout: Customer 220
+477.12 End Shopping: Customer 259
+477.84 Arrival: Customer 8
+478.05999999999995 End Checkout: Customer 372
+479.59000000000003 End Checkout: Customer 264
+479.76 End Checkout: Customer 418
+480.32 End Checkout: Customer 259
+482.55 Arrival: Customer 14
+482.59000000000003 End Shopping: Customer 135
+483.57 End Shopping: Customer 260
+485.45000000000005 End Shopping: Customer 358
+485.49 End Checkout: Customer 135
+486.28 Arrival: Customer 190
+486.37 End Checkout: Customer 260
+486.78 Arrival: Customer 388
+490.03 Arrival: Customer 257
+490.30000000000007 End Checkout: Customer 358
+496.19 End Shopping: Customer 257
+496.9 Arrival: Customer 422
+497.81 Arrival: Customer 2
+498.24 Arrival: Customer 176
+498.29 End Checkout: Customer 257
+498.84 End Shopping: Customer 387
+500.33 Arrival: Customer 58
+503.05 End Shopping: Customer 148
+503.75 Arrival: Customer 242
+503.84 End Checkout: Customer 387
+506.64 End Shopping: Customer 8
+507.85 End Checkout: Customer 148
+508.59 Arrival: Customer 120
+509.15000000000003 End Shopping: Customer 14
+509.84 End Checkout: Customer 8
+511.3 Arrival: Customer 22
+511.71 End Shopping: Customer 120
+512.01 Arrival: Customer 411
+512.21 End Shopping: Customer 2
+512.9000000000001 End Checkout: Customer 14
+513.11 Arrival: Customer 177
+513.31 End Checkout: Customer 120
+513.84 End Shopping: Customer 22
+514.07 Arrival: Customer 375
+514.1 Arrival: Customer 26
+514.41 Arrival: Customer 107
+514.4100000000001 End Checkout: Customer 2
+515.0400000000001 End Checkout: Customer 22
+516.48 End Shopping: Customer 176
+518.7 Arrival: Customer 119
+519.6800000000001 End Checkout: Customer 176
+519.89 Arrival: Customer 149
+520.04 End Shopping: Customer 58
+522.51 End Shopping: Customer 107
+522.81 Arrival: Customer 75
+523.39 End Checkout: Customer 58
+523.86 Arrival: Customer 237
+525.26 End Checkout: Customer 107
+528.54 Arrival: Customer 163
+530.34 End Shopping: Customer 149
+531.5 Arrival: Customer 255
+531.82 Arrival: Customer 15
+531.83 End Shopping: Customer 242
+532.44 End Checkout: Customer 149
+532.48 End Shopping: Customer 190
+532.85 Arrival: Customer 51
+533.25 Arrival: Customer 267
+534.31 Arrival: Customer 382
+534.61 Arrival: Customer 430
+535.13 End Checkout: Customer 242
+536.13 End Shopping: Customer 267
+536.52 Arrival: Customer 424
+537.09 End Shopping: Customer 430
+537.33 End Checkout: Customer 267
+537.36 Arrival: Customer 273
+537.48 End Checkout: Customer 190
+537.49 End Shopping: Customer 411
+538.49 End Checkout: Customer 430
+539.14 Arrival: Customer 48
+539.21 Arrival: Customer 145
+539.8 Arrival: Customer 408
+540.14 End Shopping: Customer 26
+540.75 Arrival: Customer 327
+540.79 End Checkout: Customer 411
+541.48 End Shopping: Customer 327
+541.53 Arrival: Customer 347
+541.7099999999999 End Shopping: Customer 382
+542.58 End Checkout: Customer 327
+543.2 End Shopping: Customer 177
+543.2099999999999 End Checkout: Customer 382
+543.26 End Shopping: Customer 203
+544.06 End Shopping: Customer 408
+544.24 End Checkout: Customer 26
+544.5 End Shopping: Customer 273
+544.93 Arrival: Customer 275
+545.66 End Checkout: Customer 408
+546.2 End Checkout: Customer 273
+547.02 End Shopping: Customer 424
+547.07 End Shopping: Customer 375
+547.75 End Checkout: Customer 177
+547.81 End Checkout: Customer 203
+549.02 End Checkout: Customer 424
+549.91 Arrival: Customer 192
+550.1 End Shopping: Customer 422
+550.93 Arrival: Customer 125
+551.35 Arrival: Customer 209
+551.5899999999999 End Shopping: Customer 275
+551.82 End Checkout: Customer 375
+552.46 End Shopping: Customer 51
+552.5699999999999 End Shopping: Customer 125
+553.01 Arrival: Customer 367
+553.33 Arrival: Customer 109
+553.4899999999999 End Checkout: Customer 275
+553.77 End Checkout: Customer 125
+553.8 Arrival: Customer 383
+554.0 End Checkout: Customer 422
+554.93 Arrival: Customer 392
+555.89 End Shopping: Customer 145
+556.01 End Shopping: Customer 192
+556.3100000000001 End Checkout: Customer 51
+557.51 End Checkout: Customer 192
+557.86 End Shopping: Customer 48
+558.09 End Checkout: Customer 145
+558.52 Arrival: Customer 376
+558.6 End Shopping: Customer 388
+559.59 End Shopping: Customer 119
+560.3199999999999 End Shopping: Customer 376
+560.74 Arrival: Customer 348
+561.0600000000001 End Checkout: Customer 48
+561.27 Arrival: Customer 221
+561.52 End Checkout: Customer 376
+562.1 Arrival: Customer 89
+563.0400000000001 End Checkout: Customer 119
+563.3000000000001 End Checkout: Customer 388
+563.63 Arrival: Customer 164
+564.06 Arrival: Customer 19
+564.08 Arrival: Customer 13
+564.15 End Shopping: Customer 347
+565.28 End Shopping: Customer 164
+566.48 Arrival: Customer 288
+566.5799999999999 End Checkout: Customer 164
+566.64 End Shopping: Customer 348
+567.25 Arrival: Customer 296
+567.9599999999999 End Shopping: Customer 75
+568.1 End Checkout: Customer 347
+568.34 Arrival: Customer 361
+568.64 End Checkout: Customer 348
+569.64 Arrival: Customer 113
+571.0600000000001 End Shopping: Customer 89
+571.46 Arrival: Customer 241
+571.7099999999999 End Checkout: Customer 75
+573.7600000000001 End Checkout: Customer 89
+575.64 Arrival: Customer 442
+575.7 End Shopping: Customer 237
+576.4499999999999 End Shopping: Customer 221
+576.61 Arrival: Customer 246
+577.0 End Shopping: Customer 255
+577.76 End Shopping: Customer 241
+578.78 Arrival: Customer 67
+579.22 Arrival: Customer 144
+579.23 Arrival: Customer 142
+579.26 End Checkout: Customer 241
+579.5 End Checkout: Customer 237
+579.5999999999999 End Checkout: Customer 221
+581.5 End Checkout: Customer 255
+582.04 End Shopping: Customer 442
+582.87 Arrival: Customer 71
+583.31 Arrival: Customer 76
+583.39 End Shopping: Customer 113
+583.46 End Shopping: Customer 13
+583.61 End Shopping: Customer 246
+583.76 Arrival: Customer 172
+584.04 End Checkout: Customer 442
+585.11 End Checkout: Customer 246
+585.49 End Checkout: Customer 113
+585.84 Arrival: Customer 404
+586.3399999999999 End Shopping: Customer 67
+586.88 End Shopping: Customer 142
+587.36 End Checkout: Customer 13
+587.37 Arrival: Customer 70
+587.99 End Shopping: Customer 163
+588.36 End Shopping: Customer 361
+588.48 Arrival: Customer 171
+588.55 Arrival: Customer 226
+588.78 End Checkout: Customer 142
+589.04 End Checkout: Customer 67
+589.37 Arrival: Customer 409
+589.5799999999999 End Shopping: Customer 392
+590.1 End Shopping: Customer 144
+590.32 End Shopping: Customer 404
+591.0600000000001 End Checkout: Customer 361
+591.9 End Checkout: Customer 144
+592.04 End Checkout: Customer 163
+592.12 End Checkout: Customer 404
+593.23 Arrival: Customer 244
+593.4 End Shopping: Customer 71
+593.74 End Shopping: Customer 288
+593.8299999999999 End Checkout: Customer 392
+594.49 End Shopping: Customer 409
+594.51 End Shopping: Customer 226
+595.0 Arrival: Customer 412
+595.3 End Checkout: Customer 71
+595.73 Arrival: Customer 214
+595.76 End Shopping: Customer 171
+595.91 End Checkout: Customer 226
+595.91 Arrival: Customer 79
+596.29 End Checkout: Customer 409
+597.19 End Checkout: Customer 288
+597.56 End Checkout: Customer 171
+598.6 Arrival: Customer 196
+598.69 Arrival: Customer 123
+599.16 Arrival: Customer 179
+599.25 Arrival: Customer 269
+599.26 Arrival: Customer 385
+599.39 End Shopping: Customer 244
+599.93 Arrival: Customer 355
+600.46 Arrival: Customer 228
+600.66 Arrival: Customer 184
+601.1899999999999 End Checkout: Customer 244
+601.3599999999999 End Shopping: Customer 383
+601.8100000000001 End Shopping: Customer 109
+602.14 End Shopping: Customer 179
+603.34 End Checkout: Customer 179
+603.9 Arrival: Customer 86
+605.1800000000001 End Shopping: Customer 15
+605.1999999999999 End Shopping: Customer 19
+605.4099999999999 End Checkout: Customer 383
+605.41 Arrival: Customer 441
+605.88 Arrival: Customer 262
+606.21 End Checkout: Customer 109
+606.24 Arrival: Customer 42
+606.26 Arrival: Customer 252
+607.95 End Shopping: Customer 367
+608.9 End Checkout: Customer 19
+609.24 End Shopping: Customer 262
+609.98 End Checkout: Customer 15
+610.15 End Shopping: Customer 76
+610.59 End Shopping: Customer 42
+610.64 End Checkout: Customer 262
+611.76 End Shopping: Customer 172
+612.0 End Checkout: Customer 367
+612.09 End Checkout: Customer 42
+613.25 End Checkout: Customer 76
+613.63 End Shopping: Customer 355
+613.66 Arrival: Customer 173
+613.8 Arrival: Customer 337
+614.0 Arrival: Customer 111
+614.76 End Checkout: Customer 172
+614.94 Arrival: Customer 297
+615.63 End Checkout: Customer 355
+615.9 End Shopping: Customer 86
+616.28 End Shopping: Customer 196
+617.67 Arrival: Customer 374
+618.49 End Shopping: Customer 123
+618.63 End Shopping: Customer 412
+618.6999999999999 End Checkout: Customer 86
+619.03 Arrival: Customer 216
+619.5799999999999 End Checkout: Customer 196
+619.91 End Shopping: Customer 79
+620.88 Arrival: Customer 436
+621.15 End Shopping: Customer 374
+621.39 End Checkout: Customer 123
+621.48 End Checkout: Customer 412
+621.53 End Shopping: Customer 441
+621.75 End Shopping: Customer 269
+621.8000000000001 End Shopping: Customer 297
+622.0 Arrival: Customer 378
+622.55 End Checkout: Customer 374
+622.93 End Shopping: Customer 296
+623.39 Arrival: Customer 311
+623.5000000000001 End Checkout: Customer 297
+623.7 Arrival: Customer 59
+624.31 End Checkout: Customer 79
+624.8299999999999 End Checkout: Customer 441
+624.9 Arrival: Customer 289
+625.25 End Checkout: Customer 269
+627.8299999999999 End Checkout: Customer 296
+628.94 End Shopping: Customer 59
+630.34 End Checkout: Customer 59
+632.74 End Shopping: Customer 173
+633.65 End Shopping: Customer 111
+634.43 End Shopping: Customer 311
+634.94 Arrival: Customer 373
+636.2299999999999 End Checkout: Customer 311
+636.4 End Checkout: Customer 111
+636.54 End Checkout: Customer 173
+636.59 Arrival: Customer 435
+637.43 Arrival: Customer 223
+637.86 End Shopping: Customer 289
+637.9100000000001 End Shopping: Customer 373
+638.32 End Shopping: Customer 378
+639.21 End Checkout: Customer 373
+640.0600000000001 End Checkout: Customer 289
+640.5200000000001 End Checkout: Customer 378
+640.63 End Shopping: Customer 216
+640.75 End Shopping: Customer 209
+641.24 End Shopping: Customer 214
+641.97 Arrival: Customer 32
+642.1 Arrival: Customer 47
+642.3 End Shopping: Customer 436
+643.83 End Checkout: Customer 216
+644.38 End Shopping: Customer 47
+644.87 Arrival: Customer 405
+644.9 Arrival: Customer 159
+645.29 Arrival: Customer 281
+645.29 End Checkout: Customer 214
+645.3499999999999 End Checkout: Customer 436
+645.58 End Checkout: Customer 47
+645.66 Arrival: Customer 299
+645.75 End Checkout: Customer 209
+647.49 End Shopping: Customer 32
+647.53 Arrival: Customer 433
+648.9599999999999 End Shopping: Customer 184
+649.29 End Checkout: Customer 32
+650.2099999999999 End Shopping: Customer 223
+651.77 Arrival: Customer 282
+652.1099999999999 End Checkout: Customer 223
+653.1899999999999 End Shopping: Customer 281
+653.2599999999999 End Checkout: Customer 184
+654.97 End Shopping: Customer 70
+655.13 End Shopping: Customer 282
+655.1899999999999 End Checkout: Customer 281
+655.46 Arrival: Customer 279
+655.53 Arrival: Customer 240
+656.73 End Checkout: Customer 282
+656.92 Arrival: Customer 63
+657.15 Arrival: Customer 397
+658.16 Arrival: Customer 338
+659.57 End Checkout: Customer 70
+660.52 Arrival: Customer 342
+660.88 Arrival: Customer 64
+660.96 End Shopping: Customer 228
+660.96 Arrival: Customer 332
+661.95 Arrival: Customer 165
+663.42 End Shopping: Customer 342
+664.2 End Shopping: Customer 64
+664.92 End Checkout: Customer 342
+665.0799999999999 End Shopping: Customer 63
+665.6 End Checkout: Customer 64
+665.71 End Checkout: Customer 228
+665.95 End Shopping: Customer 165
+667.28 End Checkout: Customer 63
+667.45 End Checkout: Customer 165
+668.32 Arrival: Customer 339
+669.21 End Shopping: Customer 332
+670.15 End Shopping: Customer 385
+670.44 Arrival: Customer 43
+670.68 Arrival: Customer 157
+671.3100000000001 End Checkout: Customer 332
+672.8 End Shopping: Customer 337
+672.93 End Shopping: Customer 252
+674.6999999999999 End Checkout: Customer 385
+674.77 Arrival: Customer 141
+677.0100000000001 End Shopping: Customer 43
+677.17 End Shopping: Customer 433
+677.75 Arrival: Customer 239
+677.75 End Checkout: Customer 337
+677.88 End Checkout: Customer 252
+678.9100000000001 End Checkout: Customer 43
+680.27 Arrival: Customer 231
+680.31 End Shopping: Customer 299
+680.37 Arrival: Customer 437
+680.4699999999999 End Checkout: Customer 433
+681.35 Arrival: Customer 24
+681.66 End Shopping: Customer 240
+682.05 Arrival: Customer 85
+684.56 End Checkout: Customer 299
+684.94 Arrival: Customer 81
+684.9799999999999 End Shopping: Customer 157
+685.61 End Checkout: Customer 240
+685.77 End Shopping: Customer 85
+686.9799999999999 End Checkout: Customer 157
+687.0699999999999 End Checkout: Customer 85
+688.0600000000001 End Shopping: Customer 81
+688.11 End Shopping: Customer 435
+689.6600000000001 End Checkout: Customer 81
+690.22 End Shopping: Customer 339
+690.96 End Shopping: Customer 159
+691.82 Arrival: Customer 194
+692.87 End Shopping: Customer 405
+692.91 End Checkout: Customer 435
+693.52 Arrival: Customer 158
+693.65 End Shopping: Customer 24
+693.72 End Checkout: Customer 339
+695.06 Arrival: Customer 449
+695.3100000000001 End Checkout: Customer 159
+695.62 Arrival: Customer 188
+695.65 End Checkout: Customer 24
+696.67 End Shopping: Customer 239
+697.27 End Checkout: Customer 405
+697.95 Arrival: Customer 182
+699.58 Arrival: Customer 308
+699.77 End Checkout: Customer 239
+700.21 Arrival: Customer 399
+700.5200000000001 End Shopping: Customer 194
+700.62 Arrival: Customer 445
+701.54 End Shopping: Customer 449
+702.5200000000001 End Checkout: Customer 194
+703.28 Arrival: Customer 285
+703.3399999999999 End Checkout: Customer 449
+704.25 Arrival: Customer 204
+704.46 Arrival: Customer 186
+705.5400000000001 End Shopping: Customer 182
+706.7800000000001 End Shopping: Customer 308
+707.36 End Shopping: Customer 338
+707.6400000000001 End Checkout: Customer 182
+708.58 End Checkout: Customer 308
+709.3 End Shopping: Customer 188
+710.49 End Shopping: Customer 204
+711.58 Arrival: Customer 410
+712.1999999999999 End Checkout: Customer 188
+712.36 End Checkout: Customer 338
+712.69 End Checkout: Customer 204
+712.77 End Shopping: Customer 397
+713.26 End Shopping: Customer 410
+714.56 End Checkout: Customer 410
+716.09 End Shopping: Customer 279
+717.47 End Checkout: Customer 397
+717.97 End Shopping: Customer 141
+718.47 Arrival: Customer 232
+719.25 End Shopping: Customer 437
+720.24 End Checkout: Customer 279
+721.47 End Checkout: Customer 141
+723.05 End Checkout: Customer 437
+725.02 End Shopping: Customer 158
+728.52 End Checkout: Customer 158
+730.59 End Shopping: Customer 399
+731.82 End Shopping: Customer 445
+734.14 End Checkout: Customer 399
+735.32 End Checkout: Customer 445
+736.0699999999999 End Shopping: Customer 231
+737.31 End Shopping: Customer 285
+741.0699999999999 End Checkout: Customer 231
+741.3599999999999 End Checkout: Customer 285
+752.07 End Shopping: Customer 232
+755.6700000000001 End Checkout: Customer 232
+758.85 End Shopping: Customer 186
+762.7 End Checkout: Customer 186
+Average wait time: 0.12434706149307952
