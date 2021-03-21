@@ -21,6 +21,7 @@ public class Simulation {
         this.regularLaneQueue = initRegularLanes();
     }
 
+    //while the eventqueue is not empty, continue to process events
     public void runSim(){
         String logPath = "logs/";
         String logFileName = numExpressLanes + "express" + numRegularLanes + "regular.log";
@@ -30,7 +31,6 @@ public class Simulation {
         }catch(IOException e){
             System.out.println("File does not exist");
         }
-        String fileName = "arrival medium.txt";
         PriorityQueue<Event> eventQueue = createEventQueue(fileName);
         double simTime = 0;
         double waitTime = 0;
@@ -107,6 +107,9 @@ public class Simulation {
                 }
             }
         }
+
+        //after the eventqueue ahs been emptied, calculate the average wait time
+        //for all customers in the customer list
         for(Customer customer : customerList){
             waitTime += customer.getWaitTime();
         }
@@ -151,6 +154,7 @@ public class Simulation {
         return eventQueue;
     }
 
+    //initialize priorityqueue of express lanes
     public PriorityQueue<CheckoutLane> initExpressLanes(){
         PriorityQueue<CheckoutLane> laneQueue = new PriorityQueue<>();
         for(int i = 0; i < numExpressLanes; i++){
@@ -159,6 +163,7 @@ public class Simulation {
         return laneQueue;
     }
 
+    //initialize priorityqueue of regular lanes
     public PriorityQueue<CheckoutLane> initRegularLanes(){
         PriorityQueue<CheckoutLane> laneQueue = new PriorityQueue<>();
         for(int i = 0; i < numRegularLanes; i++){
@@ -189,6 +194,8 @@ public class Simulation {
         }
     }
 
+    //create arraylist of all possible lane configurations that
+    //add up to 12 given that express, regular, and closed are all viable options
     public static ArrayList<LaneConfig> initLaneConfigurations(){
         ArrayList<LaneConfig> laneConfig = new ArrayList<>();
         for(int i = 12; i >= 0; i--){
